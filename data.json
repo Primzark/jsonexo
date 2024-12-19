@@ -36,7 +36,36 @@
           "Teleportation",
           "Interdimensional travel"
         ]
+      },
+
+      {
+        "name" : "Fatality",
+        "age" : 1000000,
+        "secretIdentity" : "Isaac Mewton",
+        "powers" : [
+          "Immortality",
+          "Heat Immunity",
+          "Inferno",
+          "Teleportation",
+          "Interdimensional travel"
+        ]
+      },
+
+      {
+        "name" : "Fatality",
+        "age" : 1000000,
+        "secretIdentity" : "Isaac Mew",
+        "powers" : [
+          "Immortality",
+          "Heat Immunity",
+          "Inferno",
+          "Teleportation",
+          "Interdimensional travel"
+        ]
       }
+
+
+      
     ]
   }
   
