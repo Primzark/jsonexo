@@ -10,9 +10,8 @@
         "age" : 29,
         "secretIdentity" : "Dan Jukes",
         "powers" : [
-          "Radiation resistance",
-          "Turning tiny",
-          "Radiation blast"
+          "Radiation resistance"
+         
         ]
       },
       {
@@ -20,9 +19,7 @@
         "age" : 39,
         "secretIdentity" : "Jane Wilson",
         "powers" : [
-          "Million tonne punch",
-          "Damage resistance",
-          "Superhuman reflexes"
+          "Million tonne punch"
         ]
       },
       {
@@ -40,27 +37,20 @@
 
       {
         "name" : "Fatality",
-        "age" : 1000000,
+        "age" : 33,
         "secretIdentity" : "Isaac Mewton",
         "powers" : [
-          "Immortality",
-          "Heat Immunity",
-          "Inferno",
-          "Teleportation",
+          
           "Interdimensional travel"
         ]
       },
 
       {
-        "name" : "Fatality",
-        "age" : 1000000,
+        "name" : "Britney Sears",
+        "age" : 24,
         "secretIdentity" : "Isaac Mew",
         "powers" : [
-          "Immortality",
-          "Heat Immunity",
-          "Inferno",
-          "Teleportation",
-          "Interdimensional travel"
+         "speed of light"
         ]
       }
 
